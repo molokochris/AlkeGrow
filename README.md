@@ -16,7 +16,7 @@ AlkeGrow is a mobile app that is currently under development. It will connect sm
 
 ## How to use
 
-To use AlkeGrow, you will need to **download the Expo app on your mobile device**. Once you have installed the Expo app, you can **scan the QR code in this README to install AlkeGrow**.
+To use AlkeGrow, you will need to **download the Expo app on your mobile device**.
 
 ## Benefits
 
